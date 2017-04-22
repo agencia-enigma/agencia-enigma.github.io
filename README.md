@@ -1,3 +1,5 @@
+![Agência Enigma](https://github.com/agencia-enigma/Enigma-Simulacrum/blob/master/banner.png)
+
 # Welcome to Enigma's website project!
 
 Our ui designed was created by [Coletivo Jupiter](https://www.behance.net/jupitercoletivo), and we are heavily focused on mobile first here. Hope you like it!
