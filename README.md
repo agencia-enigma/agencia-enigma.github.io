@@ -15,4 +15,4 @@ Our stack is basically composed by:
 We pretend to implement some template engine and automated tests, but by now, it's just fit our needs.
 
 ## Contributing
-Before start contributing on this project, you must read our [codestyle guidelines](https://github.com/agencia-enigma/codestyle) and of course our [CONTRIBUTING.md file](#!).
+Before start contributing on this project, you must read our [codestyle guidelines](https://github.com/agencia-enigma/codestyle) and of course our [CONTRIBUTING.md file](https://github.com/agencia-enigma/agencia-enigma.github.io/blob/master/CONTRIBUTING.md).
