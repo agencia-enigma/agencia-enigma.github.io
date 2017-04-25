@@ -2,7 +2,7 @@
 
 # Welcome to Enigma's website project!
 
-Our ui designed was created by [Coletivo Jupiter](https://www.behance.net/jupitercoletivo), and we are heavily focused on mobile first here. Hope you like it!
+Our ui design was created by [Coletivo Jupiter](https://www.behance.net/jupitercoletivo), and we are heavily focused on mobile first here. Hope you like it!
 
 ## About our stack
 Our stack is basically composed by:
