@@ -1,10 +1,31 @@
 /**
  * Welcome do Penrose CSS.
  * Enigma's micro CSS framework. Enjoy!
+ * Our CSS is based on RSCSS and Atomic, check more about it on our codestyle rules
+ * @see {@link https://github.com/agencia-enigma/codestyle}
  */
 
-@import './settings/all'
-@import './tools/all'
-@import './generic/all'
-@import './trumps/all'
-@import './components/all'
+/**
+ * List of project settings and vars
+ */
+@import './settings/_all'
+
+/**
+ * List of project functions, mixins and snippets
+ */
+@import './tools/_all'
+
+/**
+ * All generic style and resets
+ */
+@import './generic/_all'
+
+/**
+ * Modifiers and overrides should be listed here
+ */
+@import './trumps/_all'
+
+/**
+ * Finally our components, based on RSCSS and Atomic Design
+ */
+@import './components/_all'
